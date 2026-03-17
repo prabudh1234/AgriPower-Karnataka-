@@ -1,0 +1,5 @@
+{
+  "name": "AgriPower",
+  "description": "A comprehensive digital platform for farmers to rent equipment, book drone services, and manage rural logistics.",
+  "requestFramePermissions": ["geolocation"]
+}
