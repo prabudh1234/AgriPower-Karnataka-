@@ -120,7 +120,7 @@ const EQUIPMENT: Equipment[] = [
     type: 'Tractor',
     price: 3500,
     rating: 4.9,
-    image: 'https://images.unsplash.com/photo-1594488651083-023c93df6343?auto=format&fit=crop&q=80&w=800',
+    image: 'https://www.mahindratractor.com/images/novo755di.png',
     location: '2.4 km away',
     availability: true
   },
@@ -130,7 +130,7 @@ const EQUIPMENT: Equipment[] = [
     type: 'Combine Harvester',
     price: 8500,
     rating: 4.8,
-    image: 'https://images.unsplash.com/photo-1592919016381-f07ece63f671?auto=format&fit=crop&q=80&w=800',
+    image: 'https://www.deere.com/en/tractors/combine-harvesters/w-series/w70.png',
     location: '5.1 km away',
     availability: true
   },
@@ -140,7 +140,7 @@ const EQUIPMENT: Equipment[] = [
     type: 'Tractor',
     price: 2800,
     rating: 4.7,
-    image: 'https://images.unsplash.com/photo-1530267981375-f0de937f5f13?auto=format&fit=crop&q=80&w=800',
+    image: 'https://www.sonalikatractors.com/images/tiger-di-65.png',
     location: '1.2 km away',
     availability: false
   }
